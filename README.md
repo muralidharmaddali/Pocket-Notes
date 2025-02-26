@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # Pocket-Notes
 
 ![image](https://github.com/user-attachments/assets/b32ad3ef-ae29-417a-bca4-f8fa10a08c7e)
 
 # Getting Started with Create React App
 
-To clone this project use the command: git clone https://github.com/muralidharmaddali/Pocket-Notes
+To clone this project use the command: ### `git clone https://github.com/muralidharmaddali/Pocket-Notes`
 
 ## Available Scripts
 
@@ -18,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
->>>>>>> 07d8f4a (Initialize project using Create React App)
+(Initialize project using Create React App)
 In the project directory, you can run:
 
 ### `npm start`
@@ -26,9 +26,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-<<<<<<< HEAD
-You may also see all the errors in the console.
 =======
 You may also see any lint errors in the console.
 
@@ -86,4 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 07d8f4a (Initialize project using Create React App)
+
