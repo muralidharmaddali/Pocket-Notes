@@ -9,8 +9,6 @@ To clone this project use the command: ### `git clone https://github.com/muralid
 
 ## Available Scripts
 
-After cloning type ### `npm install`
-
 =======
 # Getting Started with Create React App
 
